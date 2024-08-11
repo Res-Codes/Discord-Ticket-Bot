@@ -1,0 +1,16 @@
+{
+  "categories": {
+    "support": "channelid",
+    "buy": "channelid",
+    "replace": "channelid",
+    "exchange": "channelid",
+    "transcriptid": "channelid"
+  },
+  "roles": {
+    "teamRoleId": "roleid"
+  },
+  "embed": {
+    "bannerurl": "bannerurl"
+  },
+  "tickets": { }
+}
