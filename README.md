@@ -36,12 +36,12 @@ cd discord-ticket-bot
 Install all required Node.js dependencies:
 
 ```bash
-npm install
+npm i discord.js
+npm i discord-html-transcripts
 ```
 
 ### Step 3: Configuration
 
-1. Copy the `config.example.json` file and rename it to `config.json`.
 2. Open the `config.json` file and insert your Discord Bot Token and Client ID.
 
 ```json
