@@ -1,9 +1,10 @@
-Sure! Here’s a cool README.md for a Discord ticket bot, including installation and usage instructions:
 
 ```markdown
 # 🎟️ Discord Ticket Bot
 
-Welcome to the **Discord Ticket Bot** – a powerful and customizable bot that simplifies ticket management on your Discord server. Whether it's support requests, purchase inquiries, or other concerns, our Ticket Bot helps you organize and respond quickly.
+Welcome to the **Discord Ticket Bot** – a powerful and customizable bot that simplifies 
+ticket management on your Discord server. Whether it's support requests, purchase 
+inquiries, or other concerns, our Ticket Bot helps you organize and respond quickly.
 
 ## ✨ Features
 
