@@ -78,12 +78,3 @@ If everything is configured correctly, the bot should now be online and ready to
 
 This Discord Ticket Bot is licensed under the [MIT License](LICENSE).
 ```
-
-### Key Points of this README.md:
-- **Feature Overview**: A concise and clear explanation of the bot's main features to give users a quick understanding of what the bot can do.
-- **Step-by-Step Installation**: Detailed installation instructions to ensure users can set up the bot without issues.
-- **Usage Guide**: Brief instructions on how to use the bot effectively.
-- **Community Link**: A link to your Discord community, inviting users to join.
-- **License Information**: Information about the license under which the bot is released.
-
-This README.md should give a solid first impression and provide users with all the necessary information to install and use the bot successfully.
